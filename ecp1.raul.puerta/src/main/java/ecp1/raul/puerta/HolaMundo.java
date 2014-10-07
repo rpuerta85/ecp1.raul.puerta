@@ -7,8 +7,14 @@ public class HolaMundo {
       System.out.println("CD1");
       System.out.println("CD2");
       System.out.println("CD3");
+
       System.out.println("CD4");
       System.out.println("CD5");
+
+      System.out.println("CR1.01");
+      System.out.println("CR1.02");
+      System.out.println("CR1.03");
+      
 	}
 
 }
